@@ -45,3 +45,7 @@ Chank Reading:長い文章を切って読む。英語のまま理解する。
 - Overlapping
 - Shadowing
 - Chank Reading
+
+## Versantとは
+
+VERSANT（ヴァーサント）とは世界的な教育サービス企業であるピアソン（Pearson）社が開発した実践的な英語コミュニケーション能力を測るテストです
