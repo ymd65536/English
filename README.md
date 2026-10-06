@@ -54,7 +54,7 @@ VERSANT（ヴァーサント）とは世界的な教育サービス企業であ�
 
 何をすべきかを書いていきます。
 
-## daily
+### daily
 
 毎日のタスクは以下のとおりです。
 
@@ -64,8 +64,15 @@ VERSANT（ヴァーサント）とは世界的な教育サービス企業であ�
 - シャドーイング：10分〜15分
 - チャンクリーディング：5分〜10分
 
-## weekly
+### weekly
 
 ## Contents
 
-見るべき英語コンテンツ
+見るべき英語コンテンツは以下のとおりです。
+
+- Medium
+- YouTube
+- TED Talks
+- Podcasts
+- News Websites
+- Blogs
